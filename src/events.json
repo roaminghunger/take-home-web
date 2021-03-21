@@ -10,8 +10,8 @@
   {
     "id": 2,
     "address": "2030 Ocean Ave, Santa Monica, CA 90405, USA",
-    "start_time": "2021-03-20 18:00:00",
-    "end_time": "2021-03-20 23:00:00",
+    "start_time": "2021-03-20 10:00:00",
+    "end_time": "2021-03-20 12:00:00",
     "vendor": "Richeeze",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/0c2b3be3-9506-4095-95f0-9efb92f8cd5a.jpg"
   },
@@ -27,7 +27,7 @@
     "id": 3,
     "address": "788 S Grand Ave, Los Angeles, CA 90014, USA",
     "start_time": "2021-03-20 13:00:00",
-    "end_time": "2021-03-20 17:00:00",
+    "end_time": "2021-03-20 18:00:00",
     "vendor": "Pinch of Flavor",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/c63f71fb-d40e-46f7-bbdb-ec39c229e76f.jpg"
   },
@@ -50,8 +50,8 @@
   {
     "id": 6,
     "address": "313 N Figueroa St, Los Angeles, CA 90012",
-    "start_time": "2021-03-20 10:00:00",
-    "end_time": "2021-03-20 12:00:00",
+    "start_time": "2021-03-20 18:00:00",
+    "end_time": "2021-03-20 23:00:00",
     "vendor": "Kogi BBQ",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/bc3969d2-807f-4eae-9750-0b9fc20a3bad.jpg"
   }
