@@ -3,8 +3,9 @@ Frontend take-home coding challenge for Roaming Hunger.
 
 ## Overview
 - The goal of the challenge is to add new features to a page that displays a list of calendar events for food trucks. Please spend 1-2 hours (no more!) implementing the features described in the section below.
-- You are allowed to use any open source package you feel will enhance the final result, or save you time.
+- You are allowed to use any open source package you feel will enhance the final result (or save you time).
 - The addition of any feature should retain a good user experience on desktop, tablet and mobile devices (don't worry about cross-browser issues).
+- The challenge will be evaluated on the quality/correctness of each implemented feature, not how many features were completed.
 
 ## Features
 1. Format the display of the start/end time for each event to be more human friendly, e.g. `9:00 AM - 12:00 PM, March 20th`.
