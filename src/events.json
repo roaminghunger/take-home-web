@@ -2,56 +2,56 @@
   {
     "id": 1,
     "address": "3824 Sunset Blvd, Los Angeles, CA 90026",
-    "start_time": "2021-03-20 12:00:00",
-    "end_time": "2021-03-20 16:00:00",
+    "start_time": "2021-03-20 07:00:00",
+    "end_time": "2021-03-20 10:00:00",
     "vendor": "The Beignet Truck",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/f7ee2edc-133b-4612-b0c1-36f3d635ff67.jpg"
   },
   {
     "id": 2,
     "address": "2030 Ocean Ave, Santa Monica, CA 90405, USA",
-    "start_time": "2021-03-20 10:00:00",
-    "end_time": "2021-03-20 12:00:00",
+    "start_time": "2021-03-20 08:00:00",
+    "end_time": "2021-03-20 10:30:00",
     "vendor": "Richeeze",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/0c2b3be3-9506-4095-95f0-9efb92f8cd5a.jpg"
   },
   {
     "id": 3,
     "address": "3535 Grandview Pkwy, Birmingham, AL 35243",
-    "start_time": "2021-03-20 12:00:00",
-    "end_time": "2021-03-20 17:00:00",
+    "start_time": "2021-03-20 11:00:00",
+    "end_time": "2021-03-20 14:00:00",
     "vendor": "The Heavenly Donut Company",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/67312d1e-cdcd-41cf-b006-adb9213af6b2.jpg"
   },
   {
-    "id": 3,
+    "id": 4,
     "address": "788 S Grand Ave, Los Angeles, CA 90014, USA",
-    "start_time": "2021-03-20 13:00:00",
-    "end_time": "2021-03-20 18:00:00",
+    "start_time": "2021-03-20 12:00:00",
+    "end_time": "2021-03-20 16:00:00",
     "vendor": "Pinch of Flavor",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/c63f71fb-d40e-46f7-bbdb-ec39c229e76f.jpg"
   },
   {
-    "id": 4,
+    "id": 5,
     "address": "313 N Figueroa St, Los Angeles, CA 90012",
-    "start_time": "2021-03-20 14:00:00",
-    "end_time": "2021-03-20 18:00:00",
+    "start_time": "2021-03-20 13:00:00",
+    "end_time": "2021-03-20 16:30:00",
     "vendor": "Wings n Waffles",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/a90b8cfb-01d0-43f2-8b84-dbfd1ce269ea.jpg"
   },
   {
-    "id": 5,
+    "id": 6,
     "address": "313 N Figueroa St, Los Angeles, CA 90012",
-    "start_time": "2021-03-20 9:00:00",
-    "end_time": "2021-03-20 13:00:00",
+    "start_time": "2021-03-20 16:00:00",
+    "end_time": "2021-03-20 20:00:00",
     "vendor": "Hustle N Dough",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/ae91f66d-ca40-4116-a6e5-792d1e58c5cb.jpg"
   },
   {
-    "id": 6,
+    "id": 7,
     "address": "313 N Figueroa St, Los Angeles, CA 90012",
-    "start_time": "2021-03-20 18:00:00",
-    "end_time": "2021-03-20 23:00:00",
+    "start_time": "2021-03-20 17:00:00",
+    "end_time": "2021-03-20 23:30:00",
     "vendor": "Kogi BBQ",
     "photo": "https://d3hbe0kmbam4a5.cloudfront.net/photos/bc3969d2-807f-4eae-9750-0b9fc20a3bad.jpg"
   }
